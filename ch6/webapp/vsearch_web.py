@@ -12,10 +12,10 @@ from threading import Thread
 app = Flask(__name__)
 
 # Stores MySQL connection details into Flasks internals
-app.config['dbconfig'] = {'host': 'beeferikson.mysql.pythonanywhere-services.com',
-                          'user': 'beeferikson',
-                          'password': 'vsearchpasswd',
-                          'database': 'beeferikson$default'}
+app.config['dbconfig'] = {'host': 'hostname',
+                          'user': 'username',
+                          'password': 'password',
+                          'database': 'dbname'}
 
 # Secret key for using login
 app.secret_key = 'holyCowSuperSecretPassword'
