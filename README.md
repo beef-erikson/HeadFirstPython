@@ -1,5 +1,5 @@
-# HeadFirstPython
-Code from the book Head First Python
+# Head First Python
+Code examples from the book Head First Python
 
 # Chapter 1 - The Basics
 - <a href="https://github.com/beef-erikson/HeadFirstPython/tree/master/ch1/beersong.py">99 bottles of beer on the wall</a>

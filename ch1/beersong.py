@@ -1,5 +1,9 @@
+"""99 bottles of beer on the wall
+"""
+
 word = "bottles"
 
+# Count down from 99!
 for beer_num in range(99, 0, -1):
     print(beer_num, word, 'of beer on the wall.')
     print(beer_num, word, 'of beer.')

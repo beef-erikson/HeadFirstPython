@@ -1,3 +1,6 @@
+"""Prints if it's an odd minute or not 5 times randomly between 1 and 60 seconds apart.
+"""
+
 from datetime import datetime
 import time
 import random

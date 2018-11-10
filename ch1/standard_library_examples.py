@@ -1,3 +1,6 @@
+"""Various example usage of the standard library
+"""
+
 import sys
 import os
 import datetime
