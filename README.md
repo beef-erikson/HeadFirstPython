@@ -7,3 +7,5 @@ Code examples from the book Head First Python
 - <a href="https://github.com/beef-erikson/HeadFirstPython/tree/master/ch1/standard_library_examples.py">Examples using the Standard Library</a>
 
 # Chapter 2 - List Data
+
+(Everything is here, I just haven't bothered linking things. On to greener pastures, may come back to further document another time.)
